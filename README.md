@@ -1,7 +1,7 @@
 # Email-validator
 check if email address is valid or not
 
-# Bulk Email Verification Tool
+# Bulk Email validator / Bulk Email Verification Tool
 
 This tool allows you to verify bulk email addresses efficiently. You can use it to check a list of email addresses stored in a file named emails.txt. The tool will verify each email address and output the valid ones to a file named valid_emails.txt.
 
