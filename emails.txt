@@ -1,0 +1,10 @@
+# this is the file contain the bulk emails if you want to use bulk.py
+example1@example.com
+example2@example.com
+example3@example.com
+example4@example.com
+example5@example.com
+example6@example.com
+....etc
+
+#replace all of above with all emails you want to check if valid or not
